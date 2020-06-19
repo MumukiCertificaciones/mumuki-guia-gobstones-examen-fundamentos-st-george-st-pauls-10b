@@ -1,0 +1,5 @@
+Copyright Gustavo Trucco and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/mumukicertificaciones/mumuki-guia-gobstones-examen-fundamentos-st-george-st-pauls-10b and the AUTHORS.txt file.

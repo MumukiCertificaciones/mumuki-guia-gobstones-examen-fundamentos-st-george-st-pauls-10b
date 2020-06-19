@@ -1,0 +1,1 @@
+Tené cuidado con el caso borde. :eyes:

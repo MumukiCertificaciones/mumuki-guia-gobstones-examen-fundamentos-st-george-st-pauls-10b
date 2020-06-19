@@ -1,0 +1,1 @@
+Los colores de abajo a arriba son: `Negro`, `Verde` y `Azul`.
